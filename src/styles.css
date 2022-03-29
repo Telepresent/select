@@ -1,0 +1,18 @@
+html {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Quicksand", sans-serif;
+  overflow: hidden;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+canvas {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin: 0px;
+  padding: 0px;
+}
